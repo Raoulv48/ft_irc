@@ -1,4 +1,4 @@
-# FT_IRC [![jlensing's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1jwurq1001109l1q4s085aw/project/2362709)](https://github.com/JaeSeoKim/badge42)
+# FT_IRC
 * Written in C++98
 * Compiled with -Wall -Werror -Wextra -std=c++98 -pedantic
 * Works with IRSSI
